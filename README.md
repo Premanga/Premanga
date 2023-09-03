@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Premanga.
 - 👀 I’m interested in Compititive coding and project works.
-- Already learned HTML,CSS,C and python,etc 
-- 🌱 I’m currently learning C++ 
+- Already learned HTML,CSS,C and C,etc 
+- 🌱 I’m currently learning pyhton 
 - 💞️ I’m looking to collaborate on intermidiate level projects 
 - 📫 How to reach me : e-mail- premangasardar@gmail.com
 - FRESHER NOW
